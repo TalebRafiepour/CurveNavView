@@ -124,6 +124,6 @@ allprojects {
 
 
 dependencies {
-    implementation 'com.github.TalebRafiepour:CurveNavView:0.0.1'
+    implementation 'com.github.TalebRafiepour:CurveNavView:0.0.2'
 }
 ```
