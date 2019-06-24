@@ -4,9 +4,9 @@ NavigationView from android design support library with curved edge
 
 ### screen shots
 
-https://github.com/TalebRafiepour/CurveNavView/blob/master/media/crop_inside.png
+![alt text](https://github.com/TalebRafiepour/CurveNavView/blob/master/media/crop_inside.png)
 
-https://github.com/TalebRafiepour/CurveNavView/blob/master/media/crop_outside.png
+![alt text](https://github.com/TalebRafiepour/CurveNavView/blob/master/media/crop_outside.png)
 
 # Usage
 
